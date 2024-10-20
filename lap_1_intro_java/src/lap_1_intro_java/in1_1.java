@@ -9,5 +9,6 @@ public class in1_1 {
         double y = Double.parseDouble(x);
         String output ="c = "+(5.0/9.0)*(y-32.0);
         JOptionPane.showMessageDialog(null,output);
+        //
     } 
 }
